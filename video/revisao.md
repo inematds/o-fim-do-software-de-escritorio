@@ -17,3 +17,5 @@ MP4 final 177,04 s (2 min 57 s), 1920×1080, 25 fps, voz e trilha. Cinco quadros
 - Marca: 9/10. Linha INEMA âmbar, marca superior e tipografia consistentes.
 
 QA: aprovado com aviso de áreas lisas nos diagramas contidos (fundos pretos e cartões claros intencionais). Nenhum quadro vazio ou trecho parado reprovado; área lisa forte acima de 60% em 0% da duração. HyperFrames: lint/runtime/layout sem erros; 27/27 contrastes AA; informação de sobreposição em 174,08 s corresponde à entrada animada, texto estável conferido sem colisão. Build estrito sem avisos, alinhamento 0,9878. Mesmo ID HeyGen preservado.
+
+Player: controles e layouts 390/1440 aprovados sem overflow ou erros JS. URLs públicas do MP4, VTT, player e guias PT/EN/ES respondem200. Reprodução no Chromium headless não confirmada: canPlayType H.264/AAC retorna vazio neste ambiente; arquivo H.264 High/yuv420p/AAC decodificado integralmente pelo FFmpeg.

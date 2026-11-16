@@ -12,7 +12,13 @@
   "telegram": {
     "topico": "https://t.me/c/2238677701/6440",
     "menu_id": 6455,
-    "leitura_de_volta": true
+    "leitura_de_volta": true,
+    "video_reply": {
+      "message_id": 6473,
+      "topic_id": 6440,
+      "url": "https://t.me/c/2238677701/6473",
+      "leitura_de_volta": true
+    }
   },
   "video": {
     "status": "disponivel_github_pages",
@@ -41,7 +47,31 @@
       "falhas": 0,
       "build": "webpack aprovado",
       "tsc": "aprovado"
-    }
+    },
+    "pages_validacao": {
+      "videos/": {
+        "status": 200,
+        "video_presente": true
+      },
+      "videos/legendas-pt.vtt": {
+        "status": 200,
+        "video_presente": true
+      },
+      "guia/": {
+        "status": 200,
+        "video_presente": true
+      },
+      "guia/en/": {
+        "status": 200,
+        "video_presente": true
+      },
+      "guia/es/": {
+        "status": 200,
+        "video_presente": true
+      }
+    },
+    "publicacao_escopo": "GitHub Release e Pages; YouTube não publicado",
+    "playback_headless": "não confirmado: Chromium sem suporte H.264; arquivo decodificado com FFmpeg"
   },
   "validacao": {
     "portal_testes": "aprovado",
