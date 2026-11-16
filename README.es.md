@@ -32,7 +32,7 @@ Resultado esperado: C001 (76 días) y C004 (46 días), duplicidad C004 y fecha f
 
 ## Video
 
-Explicavideo con el avatar de Nei Maldaner en producción para lives11. El enlace se incluirá aquí y en la guía cuando se publique.
+🎬 [Ver el video](https://inematds.github.io/o-fim-do-software-de-escritorio/videos/) — Video con voz y subtítulos en portugués.
 
 ## Autoría y fuentes
 

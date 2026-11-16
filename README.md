@@ -32,7 +32,7 @@ Esperado: C001 (76 dias) e C004 (46 dias), duplicidade C004 e data ausente C003.
 
 ## Vídeo
 
-Explicavideo com o avatar de Nei Maldaner em produção para lives11. O link será inserido aqui e no guia quando publicado.
+🎬 [Assistir ao vídeo](https://inematds.github.io/o-fim-do-software-de-escritorio/videos/) — Vídeo com voz e legendas em português.
 
 ## Autoria e fontes
 
