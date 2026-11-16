@@ -29,8 +29,8 @@
     "mp4": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/download/video-v1.0.0/o-fim-do-software-de-escritorio.mp4",
     "release": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/tag/video-v1.0.0",
     "revisao_visual": "aprovada",
-    "youtube_status": "aguarda_autorizacao_expressa_api",
-    "youtube_publicado": false,
+    "youtube_status": "versao_anterior_publicada_lives1",
+    "youtube_publicado": true,
     "sha256": "5c0e28737ff79abcbffb00d0a256394ce742a9b0666b6c8cbd3d75b508af106d",
     "notas": {
       "visual": 8,
@@ -71,7 +71,10 @@
       }
     },
     "publicacao_escopo": "GitHub Release e Pages; YouTube não publicado",
-    "playback_headless": "não confirmado: Chromium sem suporte H.264; arquivo decodificado com FFmpeg"
+    "playback_headless": "não confirmado: Chromium sem suporte H.264; arquivo decodificado com FFmpeg",
+    "youtube_url": "https://www.youtube.com/watch?v=HzwV8EIISms",
+    "youtube_canal": "lives1",
+    "observacao_editorial": "Nei criticou foco do vídeo e autorizou publicar esta versão anterior no lives1; versão nova em produção."
   },
   "validacao": {
     "portal_testes": "aprovado",
@@ -85,5 +88,12 @@
       "es"
     ]
   },
-  "portal_video_sha": "f84cb16"
+  "portal_video_sha": "f84cb16",
+  "versao_nova": {
+    "status": "avatar_enviado",
+    "heygen_id": "a34d5e1bac60404bbf05e58b60ec4791",
+    "canal": "lives1",
+    "publicar_depois_da_anterior": true,
+    "api_publicacao": "autorizacao_permanente_16_11_2026"
+  }
 }

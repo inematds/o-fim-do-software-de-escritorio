@@ -41,3 +41,7 @@ Thesis by Nei Maldaner; open educational content. Business failures and team red
 ## Maintenance
 
 The PT content is in docs/guia-completo.md (in Portuguese). `python3 scripts/gerar_guia.py` uses the preserved INEMA template and requires the Python markdown package. Translations: inema-traduz via subscription. Generating the guide replaces the PT HTML; preserve any video embed that has already been published. Publication via git/GitHub Pages.
+
+## Shift to a new role
+
+The kit includes a [migration map](kit/en/migrar-por-resultado.md), [rules and exceptions](kit/en/regras-e-excecoes.md), and [new roles and responsibilities](kit/en/novas-funcoes.md). These are planning and testing templates, with no automatic implementation.

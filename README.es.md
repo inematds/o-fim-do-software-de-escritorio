@@ -18,6 +18,12 @@ Lee la **[guía completa](https://inematds.github.io/o-fim-do-software-de-escrit
 - [Medición de tiempo y calidad](kit/medir-antes-depois.csv) · [Guía de la ficha de medición](kit/es/medir-antes-depois.md).
 - [Registro de decisiones y seguimiento](kit/es/decisao-e-acompanhamento.md).
 
+## Migración del trabajo
+
+- [Mapear mi migración](kit/es/migrar-por-resultado.md).
+- [Definir reglas y excepciones](kit/es/regras-e-excecoes.md).
+- [Rediseñar mi función](kit/es/novas-funcoes.md).
+
 ## Ejecutar el ejemplo opcional
 
 Requiere Python 3.9+. Extrae el ZIP y abre la terminal en la carpeta que contiene kit, o ejecuta desde la raíz de este repositorio:

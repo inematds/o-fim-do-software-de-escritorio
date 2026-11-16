@@ -3,5 +3,11 @@
   "revisor": "guia_portao_publicacao, Codex assinatura contexto novo",
   "veredito": "aprovado",
   "nota": 9,
-  "defeitos": []
+  "defeitos": [],
+  "migracao": {
+    "revisor": "revisor_migracao — Codex assinatura contexto novo",
+    "nota": 9,
+    "veredito": "aprovado",
+    "defeitos": []
+  }
 }

@@ -41,3 +41,7 @@ Tese de Nei Maldaner; conteúdo educacional aberto. Falências e redução de eq
 ## Manutenção
 
 O conteúdo PT está em docs/guia-completo.md. `python3 scripts/gerar_guia.py` usa o template INEMA preservado e requer o pacote Python markdown. Traduções: inema-traduz pela assinatura. A geração do guia substitui o HTML PT; preserve qualquer embed de vídeo que já tiver sido publicado. Publicação via git/GitHub Pages.
+
+## Migrar para a nova atuação
+
+O kit inclui [mapa de migração](kit/migrar-por-resultado.md), [regras e exceções](kit/regras-e-excecoes.md) e [novas funções e responsabilidades](kit/novas-funcoes.md). São modelos de planejamento e teste, sem implantação automática.

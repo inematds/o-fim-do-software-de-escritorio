@@ -1,3 +1,4 @@
+| 2026-11-16 | Vídeo centralizou conferência de cadastro e perdeu a tese da transformação do trabalho | abrir pela tese, mostrar IA assumindo rotina/decisões sob regras, papel humano e kit de migração; nova fala revisada | prompt |
 # Falhas
 
 | data | o que quebrou | menor correção | prompt ou infra |
