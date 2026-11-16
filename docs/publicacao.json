@@ -1,0 +1,23 @@
+{
+  "data": "2026-11-16",
+  "repo_sha": "a112d78",
+  "pages": {
+    "pt": 200,
+    "en": 200,
+    "es": 200
+  },
+  "portal_sha": "6910963",
+  "buscas_sha": "1de4085",
+  "pro_sha": "0e92bbc",
+  "telegram": {
+    "topico": "https://t.me/c/2238677701/6440",
+    "menu_id": 6455,
+    "leitura_de_volta": true
+  },
+  "video": {
+    "status": "avatar_em_processamento",
+    "heygen_id": "a1d04e4ba1bc45bb982107190a06f472",
+    "canal_pedido": "lives11",
+    "publicado": false
+  }
+}
