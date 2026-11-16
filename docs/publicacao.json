@@ -88,7 +88,7 @@
       "es"
     ]
   },
-  "portal_video_sha": "f84cb16",
+  "portal_video_sha": "3543a64151ac013006ab380511453926e23d66a5",
   "versao_nova": {
     "status": "publicada",
     "heygen_id": "a34d5e1bac60404bbf05e58b60ec4791",
@@ -120,6 +120,54 @@
       "trabalho": "/home/nmaldaner/.local/share/yt-pubx/trabalhos/20261116-152226-fim-software-transformacao-mp4",
       "sha256": "ee2053b91bf967a1fb08f78ebd85d630193fc011fe6454b88745966cfa997460"
     },
-    "legenda_youtube": "SRT opcional indisponível: OAuth sem youtube.force-ssl; legenda gravada no vídeo e SRT real na Release"
+    "legenda_youtube": "SRT opcional indisponível: OAuth sem youtube.force-ssl; legenda gravada no vídeo e SRT real na Release",
+    "repo_sha": "6c155be",
+    "validacao_portal": {
+      "testes": 13,
+      "falhas": 0,
+      "build": "webpack aprovado",
+      "tsc": "aprovado"
+    },
+    "player_responsivo": [
+      390,
+      1440
+    ],
+    "telegram": {
+      "message_id": 6480,
+      "topic_id": 6440,
+      "url": "https://t.me/c/2238677701/6480",
+      "leitura_de_volta": true
+    },
+    "pages_validacao": {
+      "videos/": {
+        "status": 200,
+        "nova": true,
+        "primeira": true
+      },
+      "guia/": {
+        "status": 200,
+        "nova": true,
+        "primeira": true
+      },
+      "guia/en/": {
+        "status": 200,
+        "nova": true,
+        "primeira": true
+      },
+      "guia/es/": {
+        "status": 200,
+        "nova": true,
+        "primeira": true
+      },
+      "videos/legendas-pt.vtt": {
+        "status": 200,
+        "nova": true,
+        "primeira": true
+      }
+    },
+    "v3_capa": {
+      "message_id": 5008,
+      "reply_to": 5000
+    }
   }
 }
