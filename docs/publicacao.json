@@ -1,6 +1,6 @@
 {
   "data": "2026-11-16",
-  "repo_sha": "a112d78",
+  "repo_sha": "bb5f17c",
   "pages": {
     "pt": 200,
     "en": 200,
@@ -19,5 +19,17 @@
     "heygen_id": "a1d04e4ba1bc45bb982107190a06f472",
     "canal_pedido": "lives11",
     "publicado": false
+  },
+  "validacao": {
+    "portal_testes": "aprovado",
+    "portal_build": "aprovado",
+    "typescript": "aprovado",
+    "content_base_testes": 41,
+    "guia_nota": 9,
+    "idiomas": [
+      "pt",
+      "en",
+      "es"
+    ]
   }
 }
