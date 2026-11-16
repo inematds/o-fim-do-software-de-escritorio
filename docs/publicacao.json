@@ -23,7 +23,7 @@
   "video": {
     "status": "disponivel_github_pages",
     "heygen_id": "a1d04e4ba1bc45bb982107190a06f472",
-    "canal_pedido": "lives11",
+    "canal_pedido": "lives1",
     "publicado": true,
     "player": "https://inematds.github.io/o-fim-do-software-de-escritorio/videos/",
     "mp4": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/download/video-v1.0.0/o-fim-do-software-de-escritorio.mp4",
@@ -70,7 +70,7 @@
         "video_presente": true
       }
     },
-    "publicacao_escopo": "GitHub Release e Pages; YouTube não publicado",
+    "publicacao_escopo": "Primeira versão no lives1 e release video-v1.0.0 preservados",
     "playback_headless": "não confirmado: Chromium sem suporte H.264; arquivo decodificado com FFmpeg",
     "youtube_url": "https://www.youtube.com/watch?v=HzwV8EIISms",
     "youtube_canal": "lives1",
@@ -90,10 +90,36 @@
   },
   "portal_video_sha": "f84cb16",
   "versao_nova": {
-    "status": "avatar_enviado",
+    "status": "publicada",
     "heygen_id": "a34d5e1bac60404bbf05e58b60ec4791",
+    "youtube_url": "https://www.youtube.com/watch?v=35dzlcnXXgQ",
     "canal": "lives1",
-    "publicar_depois_da_anterior": true,
-    "api_publicacao": "autorizacao_permanente_16_11_2026"
+    "release": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/tag/video-v2.0.0",
+    "mp4": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/download/video-v2.0.0/fim-software-transformacao.mp4",
+    "srt": "https://github.com/inematds/o-fim-do-software-de-escritorio/releases/download/video-v2.0.0/fim-software-transformacao-pt.srt",
+    "duracao": 214.82,
+    "notas": {
+      "visual": 8,
+      "ritmo": 8,
+      "marca": 9
+    },
+    "qa": "aprovado",
+    "youtube_recibo": {
+      "data": "2026-11-16T15:23:42",
+      "canal": "lives1",
+      "video_id": "35dzlcnXXgQ",
+      "url": "https://www.youtube.com/watch?v=35dzlcnXXgQ",
+      "titulo": "O fim do software de escritório: por que o trabalho mudou",
+      "privacy": {
+        "privacyStatus": "public",
+        "selfDeclaredMadeForKids": false
+      },
+      "thumb_ok": true,
+      "legenda_ok": false,
+      "origem": "/home/nmaldaner/projetos/output/fim-software-transformacao/entrega/fim-software-transformacao.mp4",
+      "trabalho": "/home/nmaldaner/.local/share/yt-pubx/trabalhos/20261116-152226-fim-software-transformacao-mp4",
+      "sha256": "ee2053b91bf967a1fb08f78ebd85d630193fc011fe6454b88745966cfa997460"
+    },
+    "legenda_youtube": "SRT opcional indisponível: OAuth sem youtube.force-ssl; legenda gravada no vídeo e SRT real na Release"
   }
 }
