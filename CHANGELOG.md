@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.1.2 — 2026-11-16
+
+Uma ilustração por tópico (14, Codex image_gen, sem texto) em `guia/assets/topicos/`, com legenda em PT/EN/ES. Gerar: `scripts/gerar-imagens.sh`; inserir: `scripts/inserir-imagens.py` (idempotente, edita os 3 HTML direto; o `gerar_guia.py` antigo não reflete mais a página).
+
 ## v1.1.1 — 2026-11-16
 
 Nova versão em vídeo publicada no lives1 e Release video-v2.0.0; player e guias usam o novo MP4 e preservam a primeira versão. Legendas reais atualizadas e portal revisado.
